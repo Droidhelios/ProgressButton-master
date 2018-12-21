@@ -23,7 +23,7 @@ dependencies {
 [![](https://jitpack.io/v/org.bitbucket.droidhelios/ProgressButton.svg)](https://jitpack.io/#org.bitbucket.droidhelios/ProgressButton)
 ```gradle
 dependencies {
-    implementation 'org.bitbucket.droidhelios:ProgressButton:x.y'
+    implementation 'org.bitbucket.droidhelios:ProgressButtonX:x.y'
 }
 ```  
  
