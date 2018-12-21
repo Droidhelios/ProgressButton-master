@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [org.bitbucket.droidhelios:ProgressButton:1.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\jetified-ProgressButton-1.0.aar\f9307ef3485a8d92db4a006784710ba7\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\7a28facf7ba70cd9fb609355084ef2d3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\23eb1bdffe0c72eb63a37ff1078d71ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\b80b91633062614da73e02eb65cfcbaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\e8b872157139747f69c2987274962522\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a9d7e7e3c096ae652444a6e2d63ca37e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\544ec7db348ef676ee63601b711303bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\b6181b1810a1576b4ecff3886620373e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c7a80b35a31c91100c369be890ef0d24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f380dca3b666a861d531dc636a9091df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6880a9d01ed5488b69b93229a7da77f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\29619b02ef26ed252306c3af5c324d65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\574864f765fe4f4d0b01f34d892d889e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6cc0e9434008025623c5ecd31efc3a51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e0e7928782d14fa8f7efbdd8860d7421\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1a9ae73f25e9840226f2cbd965aa41e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a4fd29a676988f8165fab8c28e5a03e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e4a3b267a1622cfc69bce8d0c3c7fa61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3465516fa871e628813d50680a845b87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5c46b5f3ab6f05d0fe0de692e2a61173\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a59302552117c7029eb4e7beb9e57e78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\02aade97d602448e86a7b256e2f8fcff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\339d85c3efae5b5495b0f1accdb3598d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48f07521580f1cf3cb14304ab6038688\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\373e3cfd35ebc3b0ae10891a309fa112\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\1bd18c2be5571deb44dd4b3854abcc4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e57b236ed7ea0f6286ebffe897cc473b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a410a785b55fbc37907ebc4b80b0389c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eaa9aed64f835937344c5e66f9418f37\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\7a28facf7ba70cd9fb609355084ef2d3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\7a28facf7ba70cd9fb609355084ef2d3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\373e3cfd35ebc3b0ae10891a309fa112\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\373e3cfd35ebc3b0ae10891a309fa112\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.droidhelios.progressbutton_master.MainActivity
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+MERGED from [org.bitbucket.droidhelios:ProgressButton:1.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\jetified-ProgressButton-1.0.aar\f9307ef3485a8d92db4a006784710ba7\AndroidManifest.xml:7:5-44
+MERGED from [org.bitbucket.droidhelios:ProgressButton:1.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\jetified-ProgressButton-1.0.aar\f9307ef3485a8d92db4a006784710ba7\AndroidManifest.xml:7:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\7a28facf7ba70cd9fb609355084ef2d3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\7a28facf7ba70cd9fb609355084ef2d3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\23eb1bdffe0c72eb63a37ff1078d71ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha01.aar\23eb1bdffe0c72eb63a37ff1078d71ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\b80b91633062614da73e02eb65cfcbaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\b80b91633062614da73e02eb65cfcbaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\e8b872157139747f69c2987274962522\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\e8b872157139747f69c2987274962522\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a9d7e7e3c096ae652444a6e2d63ca37e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a9d7e7e3c096ae652444a6e2d63ca37e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\544ec7db348ef676ee63601b711303bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\544ec7db348ef676ee63601b711303bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\b6181b1810a1576b4ecff3886620373e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha02.aar\b6181b1810a1576b4ecff3886620373e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c7a80b35a31c91100c369be890ef0d24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c7a80b35a31c91100c369be890ef0d24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f380dca3b666a861d531dc636a9091df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f380dca3b666a861d531dc636a9091df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6880a9d01ed5488b69b93229a7da77f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6880a9d01ed5488b69b93229a7da77f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\29619b02ef26ed252306c3af5c324d65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\29619b02ef26ed252306c3af5c324d65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\574864f765fe4f4d0b01f34d892d889e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha02.aar\574864f765fe4f4d0b01f34d892d889e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6cc0e9434008025623c5ecd31efc3a51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6cc0e9434008025623c5ecd31efc3a51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e0e7928782d14fa8f7efbdd8860d7421\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e0e7928782d14fa8f7efbdd8860d7421\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1a9ae73f25e9840226f2cbd965aa41e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1a9ae73f25e9840226f2cbd965aa41e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a4fd29a676988f8165fab8c28e5a03e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\a4fd29a676988f8165fab8c28e5a03e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e4a3b267a1622cfc69bce8d0c3c7fa61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e4a3b267a1622cfc69bce8d0c3c7fa61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3465516fa871e628813d50680a845b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3465516fa871e628813d50680a845b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5c46b5f3ab6f05d0fe0de692e2a61173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5c46b5f3ab6f05d0fe0de692e2a61173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a59302552117c7029eb4e7beb9e57e78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\a59302552117c7029eb4e7beb9e57e78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\02aade97d602448e86a7b256e2f8fcff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\02aade97d602448e86a7b256e2f8fcff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\339d85c3efae5b5495b0f1accdb3598d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\339d85c3efae5b5495b0f1accdb3598d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha01.aar\18140ded5f4c8d617ef52920bb8328a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48f07521580f1cf3cb14304ab6038688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48f07521580f1cf3cb14304ab6038688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\373e3cfd35ebc3b0ae10891a309fa112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\373e3cfd35ebc3b0ae10891a309fa112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\1bd18c2be5571deb44dd4b3854abcc4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\1bd18c2be5571deb44dd4b3854abcc4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e57b236ed7ea0f6286ebffe897cc473b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e57b236ed7ea0f6286ebffe897cc473b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a410a785b55fbc37907ebc4b80b0389c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a410a785b55fbc37907ebc4b80b0389c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eaa9aed64f835937344c5e66f9418f37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kkk\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eaa9aed64f835937344c5e66f9418f37\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kkk\DennisLabWorkspase2018\ProgressButton-master\app\src\main\AndroidManifest.xml
