@@ -20,7 +20,7 @@ dependencies {
 ```
 
 #### AndroidX
-[![](https://jitpack.io/v/org.bitbucket.droidhelios/ProgressButton.svg)](https://jitpack.io/#org.bitbucket.droidhelios/ProgressButton)
+[![](https://jitpack.io/v/org.bitbucket.droidhelios/progressbuttonx.svg)](https://jitpack.io/#org.bitbucket.droidhelios/progressbuttonx)
 ```gradle
 dependencies {
     implementation 'org.bitbucket.droidhelios:ProgressButtonX:x.y'
