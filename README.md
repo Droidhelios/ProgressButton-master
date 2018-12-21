@@ -36,13 +36,13 @@ In your <b>activity_main.xml</b> class:
 In your <b>activity</b> class:
 #### Initialization method
 ```java 
-    btnAction = ProgressButton.newInstance(this, getActivityRootView())
-                  .setText("Send Request") 
-                  .setOnClickListener(new View.OnClickListener() {
-                      @Override
-                      public void onClick(View v) { 
-                      }
-                  });
+    btnAction = ProgressButton.newInstance(this)
+                .setText("Send Request")
+                .setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                    }
+                });
 ```
 
 #### Update progress bar methods
